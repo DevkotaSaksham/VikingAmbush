@@ -1,0 +1,2130 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.23f1 (c5d91304a876) revision 12966163'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 7918 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.23f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/GAMES/VikingDestroyer
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54462
+Successfully changed project path to: E:/GAMES/VikingDestroyer
+E:/GAMES/VikingDestroyer
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 144.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.23f1 (c5d91304a876)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/GAMES/VikingDestroyer/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX330 (ID=0x1d16)
+    Vendor:   
+    VRAM:     1983 MB
+    Driver:   27.21.14.6231
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56388
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003633 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 140.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.300 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1300ms)
+		BeginReloadAssembly (110ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1026ms)
+			LoadAssemblies (106ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (336ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (69ms)
+			SetupLoadedEditorAssemblies (407ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (141ms)
+				BeforeProcessingInitializeOnLoad (38ms)
+				ProcessInitializeOnLoadAttributes (165ms)
+				ProcessInitializeOnLoadMethodAttributes (53ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005668 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 140.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.401 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2403ms)
+		BeginReloadAssembly (278ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (2007ms)
+			LoadAssemblies (195ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (673ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (101ms)
+			SetupLoadedEditorAssemblies (796ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (141ms)
+				BeforeProcessingInitializeOnLoad (176ms)
+				ProcessInitializeOnLoadAttributes (416ms)
+				ProcessInitializeOnLoadMethodAttributes (44ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 0.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3028 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.9 MB.
+System memory in use after: 151.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3475.
+Total: 6.282800 ms (FindLiveObjects: 0.467500 ms CreateObjectMapping: 0.108600 ms MarkObjects: 5.537800 ms  DeleteObjects: 0.166400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/gamescene.unity
+  artifactKey: Guid(d1c3109bdb54ad54c8a2b2838528e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/gamescene.unity using Guid(d1c3109bdb54ad54c8a2b2838528e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73b9e9ed9229b83cf856d60193cd7947') in 0.038590 seconds 
+  Import took 0.050634 seconds .
+
+========================================================================
+Received Prepare
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 7.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.1 MB.
+System memory in use after: 81.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3475.
+Total: 6.617600 ms (FindLiveObjects: 1.393200 ms CreateObjectMapping: 0.138600 ms MarkObjects: 5.051000 ms  DeleteObjects: 0.033300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 197.908030 seconds.
+  path: Assets/Free Viking Starter Pack/Textures
+  artifactKey: Guid(99dbf2a16862e6a44a9a979f08e45ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures using Guid(99dbf2a16862e6a44a9a979f08e45ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0accf1a1d355d2f46a028c8594142e7c') in 0.022343 seconds 
+  Import took 0.039770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Longship_Normal.png
+  artifactKey: Guid(b20e020aa1269364c9f885b725847b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Longship_Normal.png using Guid(b20e020aa1269364c9f885b725847b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1eec8275ace5f65d5046a80658ec5ad') in 0.301596 seconds 
+  Import took 0.315719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001991 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Plain_Leather_Specular.png
+  artifactKey: Guid(25d83b40a69abcb4cbd0d64f8a09e0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Plain_Leather_Specular.png using Guid(25d83b40a69abcb4cbd0d64f8a09e0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20e4b5d8afb23645f312c6e366775b05') in 0.052647 seconds 
+  Import took 0.063782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000562 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Sail_Specular.png
+  artifactKey: Guid(f70ec04e1a1b5f348a0867c6f2d3a676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Sail_Specular.png using Guid(f70ec04e1a1b5f348a0867c6f2d3a676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '393012dc80ad96be6a97c55d352e6582') in 0.039098 seconds 
+  Import took 0.050636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Sail_Clan_A_Diffuse.png
+  artifactKey: Guid(5bdec68e89e9f2347917d5bf2ac54388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Sail_Clan_A_Diffuse.png using Guid(5bdec68e89e9f2347917d5bf2ac54388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c84a93cada3c3d08b3763434f7991383') in 0.042816 seconds 
+  Import took 0.055013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Plain_Leather_Diffuse.png
+  artifactKey: Guid(3b39553cc5af7c9438bc8cf9b1bfe818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Plain_Leather_Diffuse.png using Guid(3b39553cc5af7c9438bc8cf9b1bfe818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3657527468f88f107136e06790bda221') in 0.035765 seconds 
+  Import took 0.047987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000559 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Plain_Leather_Normal.png
+  artifactKey: Guid(fd2cdeca1983e944ba081433f1580b89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Plain_Leather_Normal.png using Guid(fd2cdeca1983e944ba081433f1580b89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb2c24fc0859f18187711101838f8a02') in 0.064330 seconds 
+  Import took 0.075723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Longship_Diffuse.png
+  artifactKey: Guid(944b48e66399c7c4194afce7055a1d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Longship_Diffuse.png using Guid(944b48e66399c7c4194afce7055a1d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '294a6648d22ab69fea5a8adfaa75a228') in 0.064742 seconds 
+  Import took 0.075469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Sail_Normal.png
+  artifactKey: Guid(9817b7166fa3e43489199bb64ce3c0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Sail_Normal.png using Guid(9817b7166fa3e43489199bb64ce3c0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '587c461b4514c0e3b1c75eedc1a4849c') in 0.038301 seconds 
+  Import took 0.051246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Longship_Spec.png
+  artifactKey: Guid(64781e358dfbcac4b8190a59412e3686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Longship_Spec.png using Guid(64781e358dfbcac4b8190a59412e3686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84eab20b482641100e605b09f35487cf') in 0.084127 seconds 
+  Import took 0.097657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Sail_Clan_B_Diffuse.png
+  artifactKey: Guid(66441303bbf74a3488da4d7e2af75f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Sail_Clan_B_Diffuse.png using Guid(66441303bbf74a3488da4d7e2af75f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cf92f0dbffa6d9ee69539d5b64a8edc') in 0.048687 seconds 
+  Import took 0.060551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 162.203304 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Longship_Diffuse.png
+  artifactKey: Guid(944b48e66399c7c4194afce7055a1d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Longship_Diffuse.png using Guid(944b48e66399c7c4194afce7055a1d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00b7c46af68012721a1f1ad0e406a30e') in 0.033397 seconds 
+  Import took 0.046953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.139536 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Longship_Diffuse.png
+  artifactKey: Guid(944b48e66399c7c4194afce7055a1d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Longship_Diffuse.png using Guid(944b48e66399c7c4194afce7055a1d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd98990355cea75792f8b291950eb0fd7') in 0.026435 seconds 
+  Import took 0.043803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.518747 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Longship_Normal.png
+  artifactKey: Guid(b20e020aa1269364c9f885b725847b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Longship_Normal.png using Guid(b20e020aa1269364c9f885b725847b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5244c19bf5e4ecb8f05cc50f834eceaa') in 0.035170 seconds 
+  Import took 0.053042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Plain_Leather_Specular.png
+  artifactKey: Guid(25d83b40a69abcb4cbd0d64f8a09e0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Plain_Leather_Specular.png using Guid(25d83b40a69abcb4cbd0d64f8a09e0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0977d53e5abb22b693b11bafe4c2fb6e') in 0.033447 seconds 
+  Import took 0.044732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Sail_Specular.png
+  artifactKey: Guid(f70ec04e1a1b5f348a0867c6f2d3a676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Sail_Specular.png using Guid(f70ec04e1a1b5f348a0867c6f2d3a676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feffa2844fd9f853e71f0d29c5760f9d') in 0.038424 seconds 
+  Import took 0.048247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Sail_Clan_A_Diffuse.png
+  artifactKey: Guid(5bdec68e89e9f2347917d5bf2ac54388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Sail_Clan_A_Diffuse.png using Guid(5bdec68e89e9f2347917d5bf2ac54388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa30c61a8fa357dca5aa461de4fd9818') in 0.039251 seconds 
+  Import took 0.050113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Plain_Leather_Diffuse.png
+  artifactKey: Guid(3b39553cc5af7c9438bc8cf9b1bfe818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Plain_Leather_Diffuse.png using Guid(3b39553cc5af7c9438bc8cf9b1bfe818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '358c4fadfacc45982ae54735292ea3aa') in 0.036140 seconds 
+  Import took 0.051951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Plain_Leather_Normal.png
+  artifactKey: Guid(fd2cdeca1983e944ba081433f1580b89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Plain_Leather_Normal.png using Guid(fd2cdeca1983e944ba081433f1580b89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9a68a965f6543f6899c10ae03e3a7d6') in 0.051889 seconds 
+  Import took 0.062241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Sail_Normal.png
+  artifactKey: Guid(9817b7166fa3e43489199bb64ce3c0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Sail_Normal.png using Guid(9817b7166fa3e43489199bb64ce3c0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a7f807dcc816a307978f454e3fb8660') in 0.056100 seconds 
+  Import took 0.066534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Longship_Spec.png
+  artifactKey: Guid(64781e358dfbcac4b8190a59412e3686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Longship_Spec.png using Guid(64781e358dfbcac4b8190a59412e3686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '983f667cc353dbf199136e16a7e49912') in 0.038228 seconds 
+  Import took 0.051117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Sail_Clan_B_Diffuse.png
+  artifactKey: Guid(66441303bbf74a3488da4d7e2af75f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Sail_Clan_B_Diffuse.png using Guid(66441303bbf74a3488da4d7e2af75f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09a5a6a32e7818c78f72e48f3ec58150') in 0.040580 seconds 
+  Import took 0.049678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.553772 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Longship_Diffuse.png
+  artifactKey: Guid(944b48e66399c7c4194afce7055a1d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Longship_Diffuse.png using Guid(944b48e66399c7c4194afce7055a1d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51ce70f5b17d84903916d76e9fbaadc6') in 0.030312 seconds 
+  Import took 0.040016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Plain_Leather_Specular.png
+  artifactKey: Guid(25d83b40a69abcb4cbd0d64f8a09e0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Plain_Leather_Specular.png using Guid(25d83b40a69abcb4cbd0d64f8a09e0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '842cc3befcff8d283e89d09da19bc7f4') in 0.037244 seconds 
+  Import took 0.059231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Sail_Specular.png
+  artifactKey: Guid(f70ec04e1a1b5f348a0867c6f2d3a676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Sail_Specular.png using Guid(f70ec04e1a1b5f348a0867c6f2d3a676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05fe62d0a059dfcd23351d831482c2b4') in 0.027086 seconds 
+  Import took 0.037359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Sail_Clan_A_Diffuse.png
+  artifactKey: Guid(5bdec68e89e9f2347917d5bf2ac54388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Sail_Clan_A_Diffuse.png using Guid(5bdec68e89e9f2347917d5bf2ac54388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81e360ff9032c72f859b167917244f4b') in 0.041697 seconds 
+  Import took 0.052219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Longship_Normal.png
+  artifactKey: Guid(b20e020aa1269364c9f885b725847b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Longship_Normal.png using Guid(b20e020aa1269364c9f885b725847b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbb7591432f8e8463284510dfda149b9') in 0.051607 seconds 
+  Import took 0.062789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Plain_Leather_Diffuse.png
+  artifactKey: Guid(3b39553cc5af7c9438bc8cf9b1bfe818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Plain_Leather_Diffuse.png using Guid(3b39553cc5af7c9438bc8cf9b1bfe818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70d531cb4fafbf8c6125c484df062642') in 0.043149 seconds 
+  Import took 0.053788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Plain_Leather_Normal.png
+  artifactKey: Guid(fd2cdeca1983e944ba081433f1580b89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Plain_Leather_Normal.png using Guid(fd2cdeca1983e944ba081433f1580b89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e98e3e42e49383d24c60a176d58f722') in 0.040817 seconds 
+  Import took 0.055000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Sail_Normal.png
+  artifactKey: Guid(9817b7166fa3e43489199bb64ce3c0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Sail_Normal.png using Guid(9817b7166fa3e43489199bb64ce3c0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85fce8664ae6dabd36b50b079cad7ab0') in 0.038498 seconds 
+  Import took 0.049061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Longship_Spec.png
+  artifactKey: Guid(64781e358dfbcac4b8190a59412e3686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Longship_Spec.png using Guid(64781e358dfbcac4b8190a59412e3686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c94606b8ae0c5c01aa114faa7631fa82') in 0.040625 seconds 
+  Import took 0.054563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Free Viking Starter Pack/Textures/Sail_Clan_B_Diffuse.png
+  artifactKey: Guid(66441303bbf74a3488da4d7e2af75f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Viking Starter Pack/Textures/Sail_Clan_B_Diffuse.png using Guid(66441303bbf74a3488da4d7e2af75f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1432c74beb65b6fd9b01264e71f51a1c') in 0.045335 seconds 
+  Import took 0.057841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.786365 seconds.
+  path: Assets/images/icon.png
+  artifactKey: Guid(756cca71077a67d41b52200f5137152b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/images/icon.png using Guid(756cca71077a67d41b52200f5137152b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cb763046d26d12e95cdb4cd15e3e64d') in 0.029146 seconds 
+  Import took 0.040826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.771793 seconds.
+  path: Assets/images/2696062.png
+  artifactKey: Guid(57c4aec04764bbf419df53568bbc9c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/images/2696062.png using Guid(57c4aec04764bbf419df53568bbc9c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26e494b5a720b279e593564829a18021') in 0.066125 seconds 
+  Import took 0.076492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.380031 seconds.
+  path: Assets/Nokobot/ColonialShip/ShipProfile.asset
+  artifactKey: Guid(1e6f7f52d3a929c4188b5f2a36cbef90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/ShipProfile.asset using Guid(1e6f7f52d3a929c4188b5f2a36cbef90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7195dcb99a0f8b0c9faadc6d618ffc5d') in 0.015671 seconds 
+  Import took 0.028222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.560700 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures
+  artifactKey: Guid(93c7327dfb2c3f74ebd38879728c2714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures using Guid(93c7327dfb2c3f74ebd38879728c2714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4fcf22d177579c3e353d4fcc308bf56') in 0.028724 seconds 
+  Import took 0.040059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001472 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Barrels.png
+  artifactKey: Guid(83dc34ad4cf86904395652d06f6557f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Barrels.png using Guid(83dc34ad4cf86904395652d06f6557f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2973f0400507e9d3a604ac1be6f55e9') in 0.055952 seconds 
+  Import took 0.068328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000493 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Window_Glasses.png
+  artifactKey: Guid(7bf81d9bfba22794e8af56c16d7fe0f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Window_Glasses.png using Guid(7bf81d9bfba22794e8af56c16d7fe0f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eadef67f0af309ff0f93127940c49bcf') in 0.037038 seconds 
+  Import took 0.049798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Lanterns+sandbags.png
+  artifactKey: Guid(7b46b05f2e8a34d4ab0c6f36a0b1b936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Lanterns+sandbags.png using Guid(7b46b05f2e8a34d4ab0c6f36a0b1b936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a957a45ae5ffe129e608d8f56084ccc') in 0.038846 seconds 
+  Import took 0.065351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002240 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Sails_01.png
+  artifactKey: Guid(89838c85a72877a4597704c3ae4ac154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Sails_01.png using Guid(89838c85a72877a4597704c3ae4ac154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e965e8a05038f7836859bed891ae471') in 0.050533 seconds 
+  Import took 0.063029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000598 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Hatches+Stairs.png
+  artifactKey: Guid(c3c31b4869bd99d468bc886b0aaad4a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Hatches+Stairs.png using Guid(c3c31b4869bd99d468bc886b0aaad4a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e043cd53ad4c82962730d7283d846916') in 0.043757 seconds 
+  Import took 0.054802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Floor+Wheel.png
+  artifactKey: Guid(9040ca56aebb96e46afbae68bf875e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Floor+Wheel.png using Guid(9040ca56aebb96e46afbae68bf875e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c2dc88d5e242f08775122221b9074b3') in 0.036019 seconds 
+  Import took 0.048466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Mast_02.png
+  artifactKey: Guid(0d73393e2d397614a9b8ce83bf228f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Mast_02.png using Guid(0d73393e2d397614a9b8ce83bf228f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '911555067ddb0405de8773431ff13f82') in 0.045082 seconds 
+  Import took 0.055507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000670 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Ropes.png
+  artifactKey: Guid(9c204c4cf97f42242870a5e072da891c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Ropes.png using Guid(9c204c4cf97f42242870a5e072da891c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98c3f6dc984e4fb6cb779222512b1033') in 0.047571 seconds 
+  Import took 0.059692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Staircase.png
+  artifactKey: Guid(e59a6fdd9bccf7b47a533586d3ca8999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Staircase.png using Guid(e59a6fdd9bccf7b47a533586d3ca8999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fe5d88951931db703e7aee3fbd8046c') in 0.040764 seconds 
+  Import took 0.051416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Ship_Body.png
+  artifactKey: Guid(f64ed59b67824ab4598c64c52c7bc0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Ship_Body.png using Guid(f64ed59b67824ab4598c64c52c7bc0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0310cfdb0fdf9df92e799a6c238ad860') in 0.038201 seconds 
+  Import took 0.049788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Sails_Jib+Back.png
+  artifactKey: Guid(fa663db133e5553479f06681446c4bf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Sails_Jib+Back.png using Guid(fa663db133e5553479f06681446c4bf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c2b3df9f8939c012a546293baf7e0a7') in 0.041841 seconds 
+  Import took 0.053553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Cannons+CannonBalls+Windows.png
+  artifactKey: Guid(2fe754ec510ab2d4da74f3db04491210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Cannons+CannonBalls+Windows.png using Guid(2fe754ec510ab2d4da74f3db04491210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da2ec992d58a02d516576d6b38f6158c') in 0.039167 seconds 
+  Import took 0.051492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Rail.png
+  artifactKey: Guid(32d66c8a6b21e60438619ceefbd4e853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Rail.png using Guid(32d66c8a6b21e60438619ceefbd4e853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad7a8b70b7300cf20929faa7fbe52ef9') in 0.033624 seconds 
+  Import took 0.044330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Sails_02+Ladders+Foremast.png
+  artifactKey: Guid(08f2d180d569c8345af7971fc1be09e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Sails_02+Ladders+Foremast.png using Guid(08f2d180d569c8345af7971fc1be09e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e11d35082b0b9527e9d24c4ab54608da') in 0.049551 seconds 
+  Import took 0.060898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Boxes+TreasureBoxes.png
+  artifactKey: Guid(2995827a8d533d84eac04fae70b0a3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Boxes+TreasureBoxes.png using Guid(2995827a8d533d84eac04fae70b0a3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '897833a2d25b51088d3453bedc8af7c4') in 0.048004 seconds 
+  Import took 0.058055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Fin+Basket+Doors.png
+  artifactKey: Guid(be495abaf0c84c843b44732896ce3033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Fin+Basket+Doors.png using Guid(be495abaf0c84c843b44732896ce3033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9dbbb1135f84111611ac96268e889a') in 0.040613 seconds 
+  Import took 0.052176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Mast_01+Box.png
+  artifactKey: Guid(eebb233b54f1c934e8dd9d27b90347aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Mast_01+Box.png using Guid(eebb233b54f1c934e8dd9d27b90347aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e1aac63976948ac10476c82d4615440') in 0.041371 seconds 
+  Import took 0.050904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Rig.png
+  artifactKey: Guid(15c6cee4ebc309d46b966c27e2380f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Rig.png using Guid(15c6cee4ebc309d46b966c27e2380f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff5c198a747fe04674c2636de8bb6aa4') in 0.050044 seconds 
+  Import took 0.059509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.685235 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Barrels.png
+  artifactKey: Guid(83dc34ad4cf86904395652d06f6557f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Barrels.png using Guid(83dc34ad4cf86904395652d06f6557f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '517268f49010222d6cf8acde84eaf78d') in 0.064944 seconds 
+  Import took 0.076607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Window_Glasses.png
+  artifactKey: Guid(7bf81d9bfba22794e8af56c16d7fe0f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Window_Glasses.png using Guid(7bf81d9bfba22794e8af56c16d7fe0f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34163fe9038cdab2e898fe2de6c97ea3') in 0.052792 seconds 
+  Import took 0.065902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Lanterns+sandbags.png
+  artifactKey: Guid(7b46b05f2e8a34d4ab0c6f36a0b1b936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Lanterns+sandbags.png using Guid(7b46b05f2e8a34d4ab0c6f36a0b1b936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '637a60fb84e1ca89ceb3aea49373d87f') in 0.053971 seconds 
+  Import took 0.065874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Sails_01.png
+  artifactKey: Guid(89838c85a72877a4597704c3ae4ac154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Sails_01.png using Guid(89838c85a72877a4597704c3ae4ac154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f4f0bfd96c53e89693f35f04955f0f') in 0.041640 seconds 
+  Import took 0.052416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000620 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Hatches+Stairs.png
+  artifactKey: Guid(c3c31b4869bd99d468bc886b0aaad4a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Hatches+Stairs.png using Guid(c3c31b4869bd99d468bc886b0aaad4a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09eb6edb9374982fa7436406fb96d5a5') in 0.049475 seconds 
+  Import took 0.059251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Floor+Wheel.png
+  artifactKey: Guid(9040ca56aebb96e46afbae68bf875e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Floor+Wheel.png using Guid(9040ca56aebb96e46afbae68bf875e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3f6f588930cb7545d761a698940fe22') in 0.040574 seconds 
+  Import took 0.049902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Mast_02.png
+  artifactKey: Guid(0d73393e2d397614a9b8ce83bf228f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Mast_02.png using Guid(0d73393e2d397614a9b8ce83bf228f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bce8e269d35f7bde7095de250e6bd8bc') in 0.054063 seconds 
+  Import took 0.064397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Ropes.png
+  artifactKey: Guid(9c204c4cf97f42242870a5e072da891c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Ropes.png using Guid(9c204c4cf97f42242870a5e072da891c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28bb2382d930524953b866413d5aa5ec') in 0.044875 seconds 
+  Import took 0.055366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000706 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Staircase.png
+  artifactKey: Guid(e59a6fdd9bccf7b47a533586d3ca8999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Staircase.png using Guid(e59a6fdd9bccf7b47a533586d3ca8999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '144fd24adaa59e9a2ea44824b03fe5bb') in 0.051114 seconds 
+  Import took 0.062243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Ship_Body.png
+  artifactKey: Guid(f64ed59b67824ab4598c64c52c7bc0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Ship_Body.png using Guid(f64ed59b67824ab4598c64c52c7bc0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b82cf09e5ac6e0204cec9eeeae6ea070') in 0.059723 seconds 
+  Import took 0.070719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Sails_Jib+Back.png
+  artifactKey: Guid(fa663db133e5553479f06681446c4bf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Sails_Jib+Back.png using Guid(fa663db133e5553479f06681446c4bf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '848f79eddf652246341868a4034f4dde') in 0.064219 seconds 
+  Import took 0.074582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Cannons+CannonBalls+Windows.png
+  artifactKey: Guid(2fe754ec510ab2d4da74f3db04491210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Cannons+CannonBalls+Windows.png using Guid(2fe754ec510ab2d4da74f3db04491210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eee901c2caa70374bf6d045e6201fbdb') in 0.057087 seconds 
+  Import took 0.066945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Rail.png
+  artifactKey: Guid(32d66c8a6b21e60438619ceefbd4e853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Rail.png using Guid(32d66c8a6b21e60438619ceefbd4e853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aaabe3fec90b542b9f4d5fef375b97e') in 0.058003 seconds 
+  Import took 0.067412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000588 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Sails_02+Ladders+Foremast.png
+  artifactKey: Guid(08f2d180d569c8345af7971fc1be09e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Sails_02+Ladders+Foremast.png using Guid(08f2d180d569c8345af7971fc1be09e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27a875cd3879284cfca7bc6d1b3f8fd2') in 0.044901 seconds 
+  Import took 0.055744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Boxes+TreasureBoxes.png
+  artifactKey: Guid(2995827a8d533d84eac04fae70b0a3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Boxes+TreasureBoxes.png using Guid(2995827a8d533d84eac04fae70b0a3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b81a42c095dff0cca46847858bf676d9') in 0.046829 seconds 
+  Import took 0.056532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Fin+Basket+Doors.png
+  artifactKey: Guid(be495abaf0c84c843b44732896ce3033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Fin+Basket+Doors.png using Guid(be495abaf0c84c843b44732896ce3033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e16ff1616b119b76f7dc818de898de6f') in 0.061040 seconds 
+  Import took 0.070370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Mast_01+Box.png
+  artifactKey: Guid(eebb233b54f1c934e8dd9d27b90347aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Mast_01+Box.png using Guid(eebb233b54f1c934e8dd9d27b90347aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4a275ff8f4185ad2d299810d071fff7') in 0.043109 seconds 
+  Import took 0.072092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000500 seconds.
+  path: Assets/Nokobot/ColonialShip/05_Textures/Rig.png
+  artifactKey: Guid(15c6cee4ebc309d46b966c27e2380f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/05_Textures/Rig.png using Guid(15c6cee4ebc309d46b966c27e2380f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8c049e48ca6029776778f45debf25bf') in 0.051890 seconds 
+  Import took 0.062684 seconds .
+
+========================================================================
+Received Prepare
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 5.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.8 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3484.
+Total: 7.955400 ms (FindLiveObjects: 0.402100 ms CreateObjectMapping: 0.156000 ms MarkObjects: 7.363900 ms  DeleteObjects: 0.032000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 928.023149 seconds.
+  path: Assets/audio/ambient.mp3
+  artifactKey: Guid(82aa56919cfb02b499a065b80c1470f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/audio/ambient.mp3 using Guid(82aa56919cfb02b499a065b80c1470f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9fc86f51b9dfd6909ee0a1c32b3244a') in 0.097664 seconds 
+  Import took 0.111616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Assets/audio/Explosion ship.mp3
+  artifactKey: Guid(ec644bac55d4d884486c08454626705b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/audio/Explosion ship.mp3 using Guid(ec644bac55d4d884486c08454626705b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31c87ba19362a4cf3b8397bf44c9c3ee') in 0.024642 seconds 
+  Import took 0.038168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000771 seconds.
+  path: Assets/audio/deathAHHHH.mp3
+  artifactKey: Guid(1f085a0af870ab441a40b8b3aa9ae116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/audio/deathAHHHH.mp3 using Guid(1f085a0af870ab441a40b8b3aa9ae116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04939c64a9ef1edff9f575ff2d81ef1d') in 0.023201 seconds 
+  Import took 0.035870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/audio/canonblast.mp3
+  artifactKey: Guid(834fe8beab1a18f4ab9bc250d143fc98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/audio/canonblast.mp3 using Guid(834fe8beab1a18f4ab9bc250d143fc98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2265f8f4e014a125cd19a6c877bc7e2c') in 0.039564 seconds 
+  Import took 0.055856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/audio/drumofdrakkar.mp3
+  artifactKey: Guid(3bbd617847f94d043b438b0d77e5a38e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/audio/drumofdrakkar.mp3 using Guid(3bbd617847f94d043b438b0d77e5a38e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7009248781deef2a65e208e098d6e8a9') in 0.021531 seconds 
+  Import took 0.051994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000599 seconds.
+  path: Assets/audio/Godzilla powerup.mp3
+  artifactKey: Guid(b4fe763ff70aace4594308991ba04d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/audio/Godzilla powerup.mp3 using Guid(b4fe763ff70aace4594308991ba04d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b79e3662d367e04d14916c14d55e686') in 0.047394 seconds 
+  Import took 0.058176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/audio/Wooden Box shipdamage.mp3
+  artifactKey: Guid(f2b341e78b26f934d80eace28e4d6357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/audio/Wooden Box shipdamage.mp3 using Guid(f2b341e78b26f934d80eace28e4d6357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaff2983c053eb31f15ade3ac15a5de3') in 0.040410 seconds 
+  Import took 0.052189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/audio/asmrPlayersound.mp3
+  artifactKey: Guid(d94b1121ee1ad5240940e705dd8bb256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/audio/asmrPlayersound.mp3 using Guid(d94b1121ee1ad5240940e705dd8bb256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2a71b8146e5820cda9ced7729ba0261') in 0.037303 seconds 
+  Import took 0.047621 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.028092 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+URP Renderer is missing RendererFeatures
+This could be due to missing scripts or compile error.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogError (object,UnityEngine.Object)
+UnityEngine.Rendering.Universal.ScriptableRendererData:ValidateRendererFeatures () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:135)
+UnityEngine.Rendering.Universal.ScriptableRendererData:OnValidate () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:59)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs Line: 135)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.119 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2120ms)
+		BeginReloadAssembly (228ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (89ms)
+		EndReloadAssembly (1772ms)
+			LoadAssemblies (176ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (635ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (82ms)
+			SetupLoadedEditorAssemblies (607ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (170ms)
+				ProcessInitializeOnLoadAttributes (400ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (52ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2855 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.6 MB.
+System memory in use after: 140.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3490.
+Total: 5.184600 ms (FindLiveObjects: 0.329200 ms CreateObjectMapping: 0.133000 ms MarkObjects: 4.680300 ms  DeleteObjects: 0.040000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 69.148756 seconds.
+  path: Assets/audio/Explosion ship.mp3
+  artifactKey: Guid(ec644bac55d4d884486c08454626705b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/audio/Explosion ship.mp3 using Guid(ec644bac55d4d884486c08454626705b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b75b60c3b0300beaaef61d834fa3613') in 0.100687 seconds 
+  Import took 0.110167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/audio/deathAHHHH.mp3
+  artifactKey: Guid(1f085a0af870ab441a40b8b3aa9ae116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/audio/deathAHHHH.mp3 using Guid(1f085a0af870ab441a40b8b3aa9ae116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '631c480d898d6cd1ca6ba2f079d53779') in 0.018747 seconds 
+  Import took 0.028489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/audio/canonblast.mp3
+  artifactKey: Guid(834fe8beab1a18f4ab9bc250d143fc98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/audio/canonblast.mp3 using Guid(834fe8beab1a18f4ab9bc250d143fc98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a7243baaa8f6072f61ea33121ab57bb') in 0.019661 seconds 
+  Import took 0.029277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/audio/drumofdrakkar.mp3
+  artifactKey: Guid(3bbd617847f94d043b438b0d77e5a38e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/audio/drumofdrakkar.mp3 using Guid(3bbd617847f94d043b438b0d77e5a38e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09535a92fea9f194d3cc5c8a8fe6cb55') in 0.016236 seconds 
+  Import took 0.024821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/audio/Godzilla powerup.mp3
+  artifactKey: Guid(b4fe763ff70aace4594308991ba04d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/audio/Godzilla powerup.mp3 using Guid(b4fe763ff70aace4594308991ba04d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33927ae280ff747aa2d6bd3771d39ebd') in 0.017246 seconds 
+  Import took 0.024837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/audio/Wooden Box shipdamage.mp3
+  artifactKey: Guid(f2b341e78b26f934d80eace28e4d6357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/audio/Wooden Box shipdamage.mp3 using Guid(f2b341e78b26f934d80eace28e4d6357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5edabb973d90de0ba3c8c1b16b18cd4d') in 0.009436 seconds 
+  Import took 0.017145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/audio/ambient.mp3
+  artifactKey: Guid(82aa56919cfb02b499a065b80c1470f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/audio/ambient.mp3 using Guid(82aa56919cfb02b499a065b80c1470f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bde19ad52077698e05ce1015ab702def') in 0.011126 seconds 
+  Import took 0.019485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000515 seconds.
+  path: Assets/audio/asmrPlayersound.mp3
+  artifactKey: Guid(d94b1121ee1ad5240940e705dd8bb256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/audio/asmrPlayersound.mp3 using Guid(d94b1121ee1ad5240940e705dd8bb256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4da3645d3b5b19daed9d8093a7079b7') in 0.010559 seconds 
+  Import took 0.018467 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006987 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+URP Renderer is missing RendererFeatures
+This could be due to missing scripts or compile error.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogError (object,UnityEngine.Object)
+UnityEngine.Rendering.Universal.ScriptableRendererData:ValidateRendererFeatures () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:135)
+UnityEngine.Rendering.Universal.ScriptableRendererData:OnValidate () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:59)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs Line: 135)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.417 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2420ms)
+		BeginReloadAssembly (285ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (87ms)
+		EndReloadAssembly (1995ms)
+			LoadAssemblies (212ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (687ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (84ms)
+			SetupLoadedEditorAssemblies (693ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (176ms)
+				ProcessInitializeOnLoadAttributes (470ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (2ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (68ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2855 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.7 MB.
+System memory in use after: 140.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3493.
+Total: 7.105100 ms (FindLiveObjects: 0.351300 ms CreateObjectMapping: 0.141500 ms MarkObjects: 6.499500 ms  DeleteObjects: 0.109300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 4.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.6 MB.
+System memory in use after: 84.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3493.
+Total: 6.994200 ms (FindLiveObjects: 0.401500 ms CreateObjectMapping: 0.141100 ms MarkObjects: 6.406500 ms  DeleteObjects: 0.042500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 731.458949 seconds.
+  path: Assets/JMO Assets/WarFX/Demo/UI Canvas/CFX Demo Btn Arrow.png
+  artifactKey: Guid(6ca93523b0317c242b05932fedb07cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/Demo/UI Canvas/CFX Demo Btn Arrow.png using Guid(6ca93523b0317c242b05932fedb07cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2df5eb343fd94f182b417b40731fd3b6') in 0.093804 seconds 
+  Import took 0.102162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/JMO Assets/WarFX/Demo/UI Canvas/CFX Demo Btn Ground H.png
+  artifactKey: Guid(5cc9c4a6db9a74a40aaed761fc99294c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/Demo/UI Canvas/CFX Demo Btn Ground H.png using Guid(5cc9c4a6db9a74a40aaed761fc99294c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '351ff25ae8f4c40490d2ce0d55ad96d4') in 0.025453 seconds 
+  Import took 0.031414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/MyPooler/Scripts/Editor/Images/PoolerHeader.png
+  artifactKey: Guid(60614aac16395b249afadd32b0221892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPooler/Scripts/Editor/Images/PoolerHeader.png using Guid(60614aac16395b249afadd32b0221892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '285020b78f03608e45bf7406f7ded5a7') in 0.030951 seconds 
+  Import took 0.037580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/JMO Assets/WarFX/Demo/UI Canvas/CFX Demo Btn Camera.png
+  artifactKey: Guid(4c72f3c555f96274787f31379fabb6ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/Demo/UI Canvas/CFX Demo Btn Camera.png using Guid(4c72f3c555f96274787f31379fabb6ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7c6222e639bac8461829a75d575ac23') in 0.031612 seconds 
+  Import took 0.038322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/JMO Assets/WarFX/Demo/UI Canvas/CFX Demo Btn Camera H.png
+  artifactKey: Guid(90cdb91b8028d984b9adf63a23402f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/Demo/UI Canvas/CFX Demo Btn Camera H.png using Guid(90cdb91b8028d984b9adf63a23402f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ba5658e3b671d25cb7606a404a427c5') in 0.032027 seconds 
+  Import took 0.038036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/MyPooler/Scripts/Editor/Images/PoolerBg.png
+  artifactKey: Guid(255fca7b1f6c2b54aa06c2ec6701f922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPooler/Scripts/Editor/Images/PoolerBg.png using Guid(255fca7b1f6c2b54aa06c2ec6701f922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '277f86e0d590cd9613af8acd74268aa7') in 0.029728 seconds 
+  Import took 0.037773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/JMO Assets/WarFX/Demo/UI Canvas/CFX Demo Btn Arrow R.png
+  artifactKey: Guid(3783f195e2c8dc84cb1461fbe881e9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/Demo/UI Canvas/CFX Demo Btn Arrow R.png using Guid(3783f195e2c8dc84cb1461fbe881e9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fee3761179a25b7130906292d9e9cfd') in 0.031802 seconds 
+  Import took 0.038107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/JMO Assets/WarFX/Demo/UI Canvas/CFX Demo Btn SlowMo H.png
+  artifactKey: Guid(48624f05b683e4a4ab1a142e40fd6971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/Demo/UI Canvas/CFX Demo Btn SlowMo H.png using Guid(48624f05b683e4a4ab1a142e40fd6971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0df1eb900e3fc3ef7dd533cb14db4cc') in 0.030278 seconds 
+  Import took 0.037003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/JMO Assets/WarFX/Demo/UI Canvas/WFX Demo Logo.png
+  artifactKey: Guid(9162d39dfff8eee418769488b7282343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/Demo/UI Canvas/WFX Demo Logo.png using Guid(9162d39dfff8eee418769488b7282343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0317fa6d4ae8ce8c64278908408a2a37') in 0.033168 seconds 
+  Import took 0.040168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/JMO Assets/WarFX/Demo/UI Canvas/CFX Demo Btn SlowMo.png
+  artifactKey: Guid(5ec8fc5d939ea2244985ca77a114c9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/Demo/UI Canvas/CFX Demo Btn SlowMo.png using Guid(5ec8fc5d939ea2244985ca77a114c9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8d5fedabc928ef00d40dbe7a8c7bfbe') in 0.031255 seconds 
+  Import took 0.037537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/JMO Assets/WarFX/Demo/UI Canvas/CFX Demo Btn Ground.png
+  artifactKey: Guid(a2bcf923df54ffa4ba7e795955c5dc22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/Demo/UI Canvas/CFX Demo Btn Ground.png using Guid(a2bcf923df54ffa4ba7e795955c5dc22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62b5a79cb4c3fa944682db8a2186761a') in 0.031128 seconds 
+  Import took 0.037554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.735684 seconds.
+  path: Assets/BG.png
+  artifactKey: Guid(dcdb6b82518bdf74f838286decd1bc1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BG.png using Guid(dcdb6b82518bdf74f838286decd1bc1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4e3c2ee644e088e28276690c231f6d8') in 0.027533 seconds 
+  Import took 0.033602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.847501 seconds.
+  path: Assets/Nokobot/ColonialShip/04_Materials/Barrels_Material.mat
+  artifactKey: Guid(8f370c45d44325d49bd5efd3054357bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/04_Materials/Barrels_Material.mat using Guid(8f370c45d44325d49bd5efd3054357bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6485374ec03050239fdaad207183e03') in 0.189231 seconds 
+  Import took 0.197082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Nokobot/ColonialShip/04_Materials/Floor+Wheel.mat
+  artifactKey: Guid(c7bc5e5842555b24cbb1f4399cce304d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/04_Materials/Floor+Wheel.mat using Guid(c7bc5e5842555b24cbb1f4399cce304d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b692f055e7bd72965366018845659cd2') in 0.025212 seconds 
+  Import took 0.030558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Nokobot/ColonialShip/04_Materials/Hatches+Stairs.mat
+  artifactKey: Guid(75fbb9604bc484f4a8f12999cf418f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/04_Materials/Hatches+Stairs.mat using Guid(75fbb9604bc484f4a8f12999cf418f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea94099b4157f46e8965f2aba4fce5f7') in 0.033911 seconds 
+  Import took 0.040640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000581 seconds.
+  path: Assets/Stylized Water For URP/Meshes/Square Plane.fbx
+  artifactKey: Guid(fb606524fcd88254ba3dad41413af47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Water For URP/Meshes/Square Plane.fbx using Guid(fb606524fcd88254ba3dad41413af47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edb4d7b8ee1a66e45ae21d30688c73ef') in 0.079652 seconds 
+  Import took 0.085285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Stylized Water For URP/Demos/Water/Floor.mat
+  artifactKey: Guid(f2f7436c3cd39404e9ea1b0b9962707d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Water For URP/Demos/Water/Floor.mat using Guid(f2f7436c3cd39404e9ea1b0b9962707d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3499238233d3089cea7a39f26df0df32') in 0.068920 seconds 
+  Import took 0.076154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Stylized Water For URP/Meshes/Circular Plane.fbx
+  artifactKey: Guid(a4328de531d19f2429bc9f98f0e9f9c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Water For URP/Meshes/Circular Plane.fbx using Guid(a4328de531d19f2429bc9f98f0e9f9c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0a05e8b2dbef4426d2321f79fad9b1a') in 0.051900 seconds 
+  Import took 0.058948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Stylized Water For URP/Materials/Ocean.mat
+  artifactKey: Guid(d337fc5282607644ebb2f3575513265e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Water For URP/Materials/Ocean.mat using Guid(d337fc5282607644ebb2f3575513265e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '930a598dd4e3c603ee74a6596ac8b786') in 0.048092 seconds 
+  Import took 0.052933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Nokobot/ColonialShip/04_Materials/Cannons+CannonBalls+Windows.mat
+  artifactKey: Guid(11ca4bc407f018f48993c28818e2822d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/04_Materials/Cannons+CannonBalls+Windows.mat using Guid(11ca4bc407f018f48993c28818e2822d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dccec90113946d9c8838c752dd906a2f') in 0.021609 seconds 
+  Import took 0.026903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Stylized Water For URP/Demos/Water/Black.mat
+  artifactKey: Guid(fa72cc8cda47e9f4f8add63b13b5b9ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Water For URP/Demos/Water/Black.mat using Guid(fa72cc8cda47e9f4f8add63b13b5b9ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96856ff708b10ac08026f06eef7d0e63') in 0.018528 seconds 
+  Import took 0.023669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/Stylized Water For URP/Materials/Beach.mat
+  artifactKey: Guid(8aaa66d84e5e3734c9d80569abe197e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Water For URP/Materials/Beach.mat using Guid(8aaa66d84e5e3734c9d80569abe197e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef1003f440dce55002ea9e917d0485aa') in 0.034779 seconds 
+  Import took 0.043632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Nokobot/ColonialShip/04_Materials/Mast_02.mat
+  artifactKey: Guid(9448646a709a5ac41b1a949f37155c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/04_Materials/Mast_02.mat using Guid(9448646a709a5ac41b1a949f37155c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24ea19bdefa9f5a08d1aa4d94b3b4288') in 0.028883 seconds 
+  Import took 0.035975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5b71ab979d30fd64f45b8021d36c7ac') in 0.035039 seconds 
+  Import took 0.042079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e407a7dad05bb5bf99cb5e50b7532d8c') in 0.034604 seconds 
+  Import took 0.042118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Nokobot/ColonialShip/04_Materials/Mast_01+Box.mat
+  artifactKey: Guid(5f8bba7c845b41c499c6cfd3d12a7f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/04_Materials/Mast_01+Box.mat using Guid(5f8bba7c845b41c499c6cfd3d12a7f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48f245335e4a0939ca91e78fd8e12ca7') in 0.027712 seconds 
+  Import took 0.033117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Particlecollection_Free samples/Model/Materials/No Name.mat
+  artifactKey: Guid(3414e6faf1f25d54bb12670d163d9d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Particlecollection_Free samples/Model/Materials/No Name.mat using Guid(3414e6faf1f25d54bb12670d163d9d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e9f0f2aec4a7af3191098f37e7ebd5a') in 0.027367 seconds 
+  Import took 0.034175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Stylized Water For URP/Demos/Buoyancy/Object.mat
+  artifactKey: Guid(671c9d24ead9c3947976c7b0564722a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Water For URP/Demos/Buoyancy/Object.mat using Guid(671c9d24ead9c3947976c7b0564722a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95caa3556dadd32cd1ffa0b5fef19114') in 0.036046 seconds 
+  Import took 0.043030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Stylized Water For URP/Meshes/Hexagonal Plane.fbx
+  artifactKey: Guid(3a3d08dbcecd2834e906f945a31ac7c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Water For URP/Meshes/Hexagonal Plane.fbx using Guid(3a3d08dbcecd2834e906f945a31ac7c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7d2393be0db7b821700289a2339d80e') in 0.040812 seconds 
+  Import took 0.048139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Nokobot/ColonialShip/04_Materials/Boxes+TreasureChests.mat
+  artifactKey: Guid(0b858c0472fbea043a047d2755ac2bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/04_Materials/Boxes+TreasureChests.mat using Guid(0b858c0472fbea043a047d2755ac2bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9d41c85dc00c6a63e08dcb35a38c510') in 0.023125 seconds 
+  Import took 0.029092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Nokobot/ColonialShip/04_Materials/Fin+Basket+Doors.mat
+  artifactKey: Guid(bee7001ef8347094ab05af8806853ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nokobot/ColonialShip/04_Materials/Fin+Basket+Doors.mat using Guid(bee7001ef8347094ab05af8806853ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be2b3700f498a39ddb81c9a02a07a3c1') in 0.035023 seconds 
+  Import took 0.043935 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003058 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+URP Renderer is missing RendererFeatures
+This could be due to missing scripts or compile error.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogError (object,UnityEngine.Object)
+UnityEngine.Rendering.Universal.ScriptableRendererData:ValidateRendererFeatures () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:135)
+UnityEngine.Rendering.Universal.ScriptableRendererData:OnValidate () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:59)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs Line: 135)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.865 seconds
+Domain Reload Profiling:
+	ReloadAssembly (866ms)
+		BeginReloadAssembly (111ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (38ms)
+		EndReloadAssembly (703ms)
+			LoadAssemblies (70ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (243ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (259ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (85ms)
+				ProcessInitializeOnLoadAttributes (161ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.4 MB.
+System memory in use after: 143.7 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 3576.
+Total: 2.869500 ms (FindLiveObjects: 0.220700 ms CreateObjectMapping: 0.075100 ms MarkObjects: 2.547400 ms  DeleteObjects: 0.025300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 2.05 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.5 MB.
+System memory in use after: 87.7 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3576.
+Total: 3.148900 ms (FindLiveObjects: 0.292200 ms CreateObjectMapping: 0.087300 ms MarkObjects: 2.753300 ms  DeleteObjects: 0.015300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 853.591186 seconds.
+  path: Assets/audio/Wooden Box Breaking Sound Effects.mp3
+  artifactKey: Guid(66f4ed5b4f98f3248a648b9e85df144c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/audio/Wooden Box Breaking Sound Effects.mp3 using Guid(66f4ed5b4f98f3248a648b9e85df144c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65f47fc9828813b51b788723a348f94c') in 0.104088 seconds 
+  Import took 0.112523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.736497 seconds.
+  path: Assets/audio/Wooden Box Breaking Sound Effects.mp3
+  artifactKey: Guid(66f4ed5b4f98f3248a648b9e85df144c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/audio/Wooden Box Breaking Sound Effects.mp3 using Guid(66f4ed5b4f98f3248a648b9e85df144c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8e9c6d7dfdc78415625dbadd55a7f15') in 0.013152 seconds 
+  Import took 0.019317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.982505 seconds.
+  path: Assets/Scripts/enemyHealth.cs
+  artifactKey: Guid(21c061e4be96a884fa7f60398c317fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/enemyHealth.cs using Guid(21c061e4be96a884fa7f60398c317fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b079467af433d2d0eb69be830dcda8b') in 0.014681 seconds 
+  Import took 0.019317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.565801 seconds.
+  path: Assets/Scripts/enemyHealth.cs
+  artifactKey: Guid(21c061e4be96a884fa7f60398c317fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/enemyHealth.cs using Guid(21c061e4be96a884fa7f60398c317fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d0ec6fb15b53667f08c80b8d047d1d6') in 0.001726 seconds 
+  Import took 0.007752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.064887 seconds.
+  path: Assets/Scripts/enemyHealth.cs
+  artifactKey: Guid(21c061e4be96a884fa7f60398c317fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/enemyHealth.cs using Guid(21c061e4be96a884fa7f60398c317fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a946060f7bf55aec5041d9a8ba1f9e10') in 0.001736 seconds 
+  Import took 0.007806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.876764 seconds.
+  path: Assets/Scripts/enemyHealth.cs
+  artifactKey: Guid(21c061e4be96a884fa7f60398c317fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/enemyHealth.cs using Guid(21c061e4be96a884fa7f60398c317fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c4fe88c1fd46c7d9e4756cac6a524c1') in 0.001823 seconds 
+  Import took 0.007206 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004638 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+URP Renderer is missing RendererFeatures
+This could be due to missing scripts or compile error.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogError (object,UnityEngine.Object)
+UnityEngine.Rendering.Universal.ScriptableRendererData:ValidateRendererFeatures () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:135)
+UnityEngine.Rendering.Universal.ScriptableRendererData:OnValidate () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:59)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs Line: 135)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.953 seconds
+Domain Reload Profiling:
+	ReloadAssembly (953ms)
+		BeginReloadAssembly (138ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (64ms)
+		EndReloadAssembly (766ms)
+			LoadAssemblies (88ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (270ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (239ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (70ms)
+				ProcessInitializeOnLoadAttributes (155ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.4 MB.
+System memory in use after: 143.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3579.
+Total: 2.916200 ms (FindLiveObjects: 0.252500 ms CreateObjectMapping: 0.067600 ms MarkObjects: 2.568500 ms  DeleteObjects: 0.026600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 7.552636 seconds.
+  path: Assets/prefab/Longship.prefab
+  artifactKey: Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Longship.prefab using Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '763e926b7551b40e10e379d7a2fc2f20') in 0.213204 seconds 
+  Import took 0.220671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.483752 seconds.
+  path: Assets/prefab/Longship.prefab
+  artifactKey: Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Longship.prefab using Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5741c3ba571db64f2e9fe9974359813b') in 0.040413 seconds 
+  Import took 0.048905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.188104 seconds.
+  path: Assets/prefab/Longship.prefab
+  artifactKey: Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Longship.prefab using Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa2a28069222659ac517ed48127cdea5') in 0.030910 seconds 
+  Import took 0.037455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.369627 seconds.
+  path: Assets/prefab/Longship.prefab
+  artifactKey: Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Longship.prefab using Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82dbf9e41916aa98d6c4c16c5e9ae9ba') in 0.027727 seconds 
+  Import took 0.036050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.391180 seconds.
+  path: Assets/prefab/Longship.prefab
+  artifactKey: Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Longship.prefab using Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc540905bf058533dd939d35fb6eeffd') in 0.028942 seconds 
+  Import took 0.034888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.599278 seconds.
+  path: Assets/prefab/Longship.prefab
+  artifactKey: Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Longship.prefab using Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1b12429fad9643a71b3a2e61d48a8ea') in 0.029603 seconds 
+  Import took 0.035986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.377223 seconds.
+  path: Assets/prefab/Longship.prefab
+  artifactKey: Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Longship.prefab using Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a338b93792bc67bb999dccc87221b4') in 0.029154 seconds 
+  Import took 0.034864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.240873 seconds.
+  path: Assets/prefab/Longship.prefab
+  artifactKey: Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Longship.prefab using Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5787658564f7f5db09a3326c3d66670') in 0.050736 seconds 
+  Import took 0.056851 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004198 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+URP Renderer is missing RendererFeatures
+This could be due to missing scripts or compile error.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogError (object,UnityEngine.Object)
+UnityEngine.Rendering.Universal.ScriptableRendererData:ValidateRendererFeatures () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:135)
+UnityEngine.Rendering.Universal.ScriptableRendererData:OnValidate () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:59)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs Line: 135)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.849 seconds
+Domain Reload Profiling:
+	ReloadAssembly (849ms)
+		BeginReloadAssembly (97ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (703ms)
+			LoadAssemblies (71ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (233ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (242ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (79ms)
+				ProcessInitializeOnLoadAttributes (137ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.7 MB.
+System memory in use after: 143.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3618.
+Total: 2.692300 ms (FindLiveObjects: 0.220900 ms CreateObjectMapping: 0.077100 ms MarkObjects: 2.374700 ms  DeleteObjects: 0.018800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 36.515689 seconds.
+  path: Assets/prefab/Longship.prefab
+  artifactKey: Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Longship.prefab using Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b7c1a0be9392abc03f25421751a7e18') in 0.191619 seconds 
+  Import took 0.199959 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002383 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+URP Renderer is missing RendererFeatures
+This could be due to missing scripts or compile error.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogError (object,UnityEngine.Object)
+UnityEngine.Rendering.Universal.ScriptableRendererData:ValidateRendererFeatures () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:135)
+UnityEngine.Rendering.Universal.ScriptableRendererData:OnValidate () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:59)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs Line: 135)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.878 seconds
+Domain Reload Profiling:
+	ReloadAssembly (878ms)
+		BeginReloadAssembly (124ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (42ms)
+		EndReloadAssembly (709ms)
+			LoadAssemblies (78ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (250ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (246ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (70ms)
+				ProcessInitializeOnLoadAttributes (163ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.8 MB.
+System memory in use after: 144.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3656.
+Total: 2.883900 ms (FindLiveObjects: 0.321700 ms CreateObjectMapping: 0.101700 ms MarkObjects: 2.423700 ms  DeleteObjects: 0.035900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 52.890660 seconds.
+  path: Assets/prefab/Longship.prefab
+  artifactKey: Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Longship.prefab using Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58244679a054c3880946a58a931f3035') in 0.173318 seconds 
+  Import took 0.180550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.391098 seconds.
+  path: Assets/prefab/Longship.prefab
+  artifactKey: Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Longship.prefab using Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20cf21d7543b41f906f2216c6f752c0f') in 0.045432 seconds 
+  Import took 0.052632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.986382 seconds.
+  path: Assets/prefab/Longship.prefab
+  artifactKey: Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Longship.prefab using Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1873e3f8611e8e4169a06770239ce8d') in 0.042674 seconds 
+  Import took 0.050929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.008822 seconds.
+  path: Assets/prefab/Longship.prefab
+  artifactKey: Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Longship.prefab using Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae7eeaa50b9785eb0a5eeb927a4ae4b3') in 0.050324 seconds 
+  Import took 0.057056 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002226 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+URP Renderer is missing RendererFeatures
+This could be due to missing scripts or compile error.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogError (object,UnityEngine.Object)
+UnityEngine.Rendering.Universal.ScriptableRendererData:ValidateRendererFeatures () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:135)
+UnityEngine.Rendering.Universal.ScriptableRendererData:OnValidate () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:59)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs Line: 135)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.867 seconds
+Domain Reload Profiling:
+	ReloadAssembly (867ms)
+		BeginReloadAssembly (111ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (714ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (237ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (239ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (67ms)
+				ProcessInitializeOnLoadAttributes (159ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (18ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.0 MB.
+System memory in use after: 144.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3694.
+Total: 2.895000 ms (FindLiveObjects: 0.221900 ms CreateObjectMapping: 0.074200 ms MarkObjects: 2.575200 ms  DeleteObjects: 0.022400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 55.353093 seconds.
+  path: Assets/prefab/Longship.prefab
+  artifactKey: Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Longship.prefab using Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3f61a4f2734742f5da68285d3db7348') in 0.171372 seconds 
+  Import took 0.180070 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002197 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+URP Renderer is missing RendererFeatures
+This could be due to missing scripts or compile error.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogError (object,UnityEngine.Object)
+UnityEngine.Rendering.Universal.ScriptableRendererData:ValidateRendererFeatures () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:135)
+UnityEngine.Rendering.Universal.ScriptableRendererData:OnValidate () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:59)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs Line: 135)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.810 seconds
+Domain Reload Profiling:
+	ReloadAssembly (811ms)
+		BeginReloadAssembly (98ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (660ms)
+			LoadAssemblies (63ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (219ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (238ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (67ms)
+				ProcessInitializeOnLoadAttributes (159ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.1 MB.
+System memory in use after: 144.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3732.
+Total: 2.972400 ms (FindLiveObjects: 0.310700 ms CreateObjectMapping: 0.083700 ms MarkObjects: 2.540900 ms  DeleteObjects: 0.034500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 54.403547 seconds.
+  path: Assets/prefab/Longship.prefab
+  artifactKey: Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Longship.prefab using Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8551875830e586361a2fb6707ccdc384') in 0.182500 seconds 
+  Import took 0.192385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.239916 seconds.
+  path: Assets/prefab/Longship.prefab
+  artifactKey: Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Longship.prefab using Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89b2593a6ff1f7a5ac9b298017d04215') in 0.042935 seconds 
+  Import took 0.050530 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002642 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+URP Renderer is missing RendererFeatures
+This could be due to missing scripts or compile error.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogError (object,UnityEngine.Object)
+UnityEngine.Rendering.Universal.ScriptableRendererData:ValidateRendererFeatures () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:135)
+UnityEngine.Rendering.Universal.ScriptableRendererData:OnValidate () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:59)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs Line: 135)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.866 seconds
+Domain Reload Profiling:
+	ReloadAssembly (867ms)
+		BeginReloadAssembly (129ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (692ms)
+			LoadAssemblies (76ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (238ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (234ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (150ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.2 MB.
+System memory in use after: 144.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3770.
+Total: 3.861700 ms (FindLiveObjects: 0.224000 ms CreateObjectMapping: 0.073600 ms MarkObjects: 3.527800 ms  DeleteObjects: 0.035300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 62.465786 seconds.
+  path: Assets/prefab/Longship.prefab
+  artifactKey: Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Longship.prefab using Guid(5966681f9bf20ad48a71c1d234ed0705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2892a603871360ded8f9621de1ed57bf') in 0.174046 seconds 
+  Import took 0.181443 seconds .
+
+========================================================================
+Received Prepare
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 2.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3833.
+Total: 3.811000 ms (FindLiveObjects: 0.255100 ms CreateObjectMapping: 0.081900 ms MarkObjects: 3.452100 ms  DeleteObjects: 0.020900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002561 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+URP Renderer is missing RendererFeatures
+This could be due to missing scripts or compile error.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogError (object,UnityEngine.Object)
+UnityEngine.Rendering.Universal.ScriptableRendererData:ValidateRendererFeatures () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:135)
+UnityEngine.Rendering.Universal.ScriptableRendererData:OnValidate () (at Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs:59)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@10.7.0/Runtime/ScriptableRendererData.cs Line: 135)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.879 seconds
+Domain Reload Profiling:
+	ReloadAssembly (880ms)
+		BeginReloadAssembly (120ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (42ms)
+		EndReloadAssembly (702ms)
+			LoadAssemblies (80ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (233ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (226ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (65ms)
+				ProcessInitializeOnLoadAttributes (145ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (23ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.4 MB.
+System memory in use after: 144.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3808.
+Total: 3.800100 ms (FindLiveObjects: 0.238600 ms CreateObjectMapping: 0.081000 ms MarkObjects: 3.433800 ms  DeleteObjects: 0.045800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 2.11 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3808.
+Total: 2.998500 ms (FindLiveObjects: 0.276900 ms CreateObjectMapping: 0.077300 ms MarkObjects: 2.627000 ms  DeleteObjects: 0.016700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 1.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3808.
+Total: 2.938800 ms (FindLiveObjects: 0.246700 ms CreateObjectMapping: 0.083700 ms MarkObjects: 2.595000 ms  DeleteObjects: 0.012800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

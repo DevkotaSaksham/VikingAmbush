@@ -1,0 +1,2 @@
+E:\GAMES\VikingDestroyer\obj\Debug\Unity.RenderPipelines.Core.Runtime.csproj.AssemblyReference.cache
+E:\GAMES\VikingDestroyer\obj\Debug\Unity.RenderPipelines.Core.Runtime.csproj.CoreCompileInputs.cache

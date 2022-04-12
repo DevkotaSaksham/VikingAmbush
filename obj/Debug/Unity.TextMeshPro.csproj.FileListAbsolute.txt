@@ -1,0 +1,2 @@
+E:\GAMES\VikingDestroyer\obj\Debug\Unity.TextMeshPro.csproj.AssemblyReference.cache
+E:\GAMES\VikingDestroyer\obj\Debug\Unity.TextMeshPro.csproj.CoreCompileInputs.cache
